@@ -6,3 +6,4 @@ scikit-learn
 numpy
 python-docx
 pymupdf
+python-multipart
